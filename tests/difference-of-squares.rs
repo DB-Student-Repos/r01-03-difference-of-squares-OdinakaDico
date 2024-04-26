@@ -1,4 +1,4 @@
-use difference_of_squares::squares;
+use difference_of_squares;
 
 #[test]
 fn test_square_of_sum_1() {
